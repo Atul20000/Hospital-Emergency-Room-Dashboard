@@ -73,6 +73,6 @@ Monthly View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/bl
 
 Consolidated View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Consolidated%20View.png
 
-Patient Details View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Patient%20View.png
+Patient Details View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Patient%20Details%20View.png
 
 
