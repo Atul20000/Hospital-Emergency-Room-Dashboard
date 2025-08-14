@@ -67,12 +67,23 @@ Allocate resources effectively during peak hours.
 Track referrals and inter-department coordination.
 
 
-📸 Dashboard Screenshots
+📸 Dashboard Screenshots :-
 
 Monthly View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png
 
 Consolidated View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Consolidated%20View.png
 
 Patient Details View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Patient%20Details%20View.png
+
+
+📌 Future Improvements :-
+
+Integration with real-time hospital database for live monitoring.
+
+Predictive analytics for patient arrival forecasting.
+
+Automated alerts for high wait times or overcrowding.
+
+Mobile-friendly dashboard layout.
 
 
