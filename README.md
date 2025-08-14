@@ -71,10 +71,9 @@ Track referrals and inter-department coordination.
 
 Consolidated View
 
+Monthly View : https://github.com/Atul20000/Hospital-Emergency-Room-Dashboard/blob/main/Monthly%20View.png
 
-Monthly View
-
-
+Consolidated View : 
 Patient Details View
 
 
